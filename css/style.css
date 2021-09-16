@@ -23,7 +23,7 @@ h1{
 4px vertically, and 2px blur*/
 h2{
 	font-size: 32px; 
-	text-shadow: #808080, 4px, 4px, 2px;
+	text-shadow: 4px 4px 2px #808080;
 }
 
 /*Paragraphs use 24px font and have 15px padding on the top only*/
