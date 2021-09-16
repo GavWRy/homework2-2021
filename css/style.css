@@ -92,10 +92,10 @@ div#green {
 
 /*Add borders around the main components and some
 space too*/
-header, nav, main, h1, footer{
+/* header, nav, main, h1, footer{
 	border: 2px solid grey;
 	margin: 10px 0;
-}
+} */
 
 footer {
 	display: block;
