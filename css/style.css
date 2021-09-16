@@ -51,14 +51,14 @@ p, h1, h2 {
     padding: 15px;
 }
 
-div.intro {
+div#intro {
 	height: 150px;
 	padding: 25px;
 	height: auto;
 
 } 
 
-div.red {
+div#red {
 	height: 150px;
 	padding: 25px;
 	height: auto;
@@ -67,7 +67,7 @@ div.red {
 
 } 
 
-div.blue {
+div#blue {
 	height: 150px;
 	padding: 25px;
 	height: auto;
@@ -75,7 +75,7 @@ div.blue {
 	text-align: left;
 } 
 
-div.yellow {
+div#yellow {
 	height: 150px;
 	padding: 25px;
 	height: auto;
@@ -85,7 +85,7 @@ div.yellow {
 
 } 
 
-div.green {
+div#green {
 	height: 150px;
 	padding: 25px;
 	height: auto;
