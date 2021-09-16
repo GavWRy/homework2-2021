@@ -46,31 +46,28 @@ img{
 }
 
 div#intro {
-	height: 150px;
+	min-height: 150px;
 	padding: 25px;
-	height: auto;
+	
 } 
 
 div#red {
-	height: 150px;
+	min-height: 150px;
 	padding: 25px;
-	height: auto;
 	background-color: red;
 	text-align: right;
 } 
 
 div#blue {
-	height: 150px;
+	min-height: 150px;
 	padding: 25px;
-	height: auto;
 	background-color: blue;
 	text-align: left;
 } 
 
 div#yellow{
-	height: 150px;
+	min-height: 150px;
 	padding: 25px;
-	height: auto;
 	background-color: yellow;
 	text-align: right;
 }
@@ -85,9 +82,8 @@ div#yellow p {
 }
 
 div#green {
-	height: 150px;
+	min-height: 150px;
 	padding: 25px;
-	height: auto;
 	background-color: #008000;
 	text-align: left;
 } 
@@ -105,22 +101,3 @@ footer p{
 	padding-right: 10px;
 	padding-bottom: 10px;
 }
-
-/*Change the styling for all of the list 
-items in the nav section*/
-nav li{
-	background-color: #ECFF4D;
-	padding:10px;
-	width:25%;
-	border:1px solid black;
-	display: inline-block;
-	width: 20%;
-}
-
-
-
-/*Added this so the links stay the same color*/
-a:visited{color:#0000FF}
-
-
-
