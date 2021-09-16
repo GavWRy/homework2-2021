@@ -18,19 +18,6 @@ h1{
 	padding: 10px;
 }
 
-/*Images match the following styles:
-All images are on their own line
-All images are centered 
-All images are 550px wide  (the image should not be warped or stretched)
-*/
-img{
-    height: auto;
-    width: 550px;
-	display: block;
-  	margin-left: auto;
-  	margin-right: auto;
-}
-
 /*Header 2 is 32px, with grey (#808080) drop shadow 
 (use text-shadow property) that is offset 4px horizontally, 
 4px vertically, and 2px blur*/
@@ -46,6 +33,19 @@ h2{
 p {
 	font-size: 24px;
     padding: 15px;
+}
+
+/*Images match the following styles:
+All images are on their own line
+All images are centered 
+All images are 550px wide  (the image should not be warped or stretched)
+*/
+img{
+    height: auto;
+    width: 550px;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
 }
 
 div#intro {
@@ -97,7 +97,7 @@ space too*/
 	margin: 10px 0;
 } */
 
-footer {
+footer p{
 	display: block;
 	padding-right: 10px;
 	padding-bottom: 10px;
